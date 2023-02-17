@@ -55,25 +55,4 @@ namespace ExtensionMethods
             return output;
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

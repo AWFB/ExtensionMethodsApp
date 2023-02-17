@@ -7,25 +7,4 @@
         public int Age { get; set; }
         public int NumberOfChildren { get; set; }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
